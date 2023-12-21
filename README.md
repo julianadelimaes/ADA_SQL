@@ -1,5 +1,5 @@
 # ADA_SQL
-Projeto para explorar base de dados obtida no Kaggle com o PostgreeSQL
+Projeto para explorar base de dados obtida no Kaggle com o PostgreSQL
 ![WhatsApp Image 2023-12-17 at 18 19 11](https://github.com/julianadelimaes/ADA_SQL/assets/111389939/8daa3987-50bf-4a4e-bc1d-0d02ec602282)
 
 <img width="960" alt="image" src="https://github.com/julianadelimaes/ADA_SQL/assets/111389939/06fb9258-be4d-477a-be4a-8d88228f0012">
